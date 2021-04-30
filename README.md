@@ -21,5 +21,5 @@ Any further questions/comments are welcome.
 
 ## Authors List
 George Alestas - <g.alestas@uoi.gr>
-<br>Ioannis Antoniou
+<br>Ioannis Antoniou - <i.antoniou@uoi.gr>
 <br>Leandros Perivolaropoulos - <leandros@uoi.gr>
